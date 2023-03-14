@@ -1,0 +1,8 @@
+
+hw: 
+marks: 100
+remarks: try to show the distribution by plotting a graph
+
+lab:
+marks: 95
+remarks: Q3. is partially correct
