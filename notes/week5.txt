@@ -1,0 +1,4 @@
+hw:100
+remarks: Q1- it would be better if you visualised the data in the column 
+
+lab: 100
